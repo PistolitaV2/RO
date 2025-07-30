@@ -1,2 +1,1 @@
-# RO
-RO practica
+Quick dummy socket connection and its daemon version
